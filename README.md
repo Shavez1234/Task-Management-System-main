@@ -1,0 +1,1 @@
+This is a Task Management System API built using Python, Flask, and Flask REST Framework. It allows users to register, authenticate, and manage their tasks. The API supports basic CRUD operations (Create, Read, Update, Delete) for tasks and includes features like task assignment, filtering, and searching. The API is tested using Postman.
